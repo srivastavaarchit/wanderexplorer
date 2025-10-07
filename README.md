@@ -56,14 +56,16 @@ View on Mobile:
 
 The layout adjusts automatically for smaller screens, with a stacked search bar and single-column grid.
 Screenshot Hero Section
-Screenshots Hero Section![Screenshot 2025-10-07 111600](https://github.com/user-attachments/assets/1cf1afee-6523-439c-b1c0-23cbe5e079b4)
-Empty State
-![Screenshot 2025-10-07 111319](https://github.com/user-attachments/assets/1ec3ccc0-e0b1-45a1-8926-676fbb778936)
-Modal Gallery(Paris)
-![Screenshot 2025-10-07 111056](https://github.com/user-attachments/assets/5637cee4-0873-42de-84e9-19fd9dd70426)
-Destination Card(Paris)
-![Screenshot 2025-10-07 110922](https://github.com/user-attachments/assets/4b26c082-2d3a-49b8-90fb-cfa3af0399d5)
+![Screenshot 2025-10-07 110922](https://github.com/user-attachments/assets/ff093e28-7539-419a-ab46-f507f4b15a8a)
 
+Empty State
+![Screenshot 2025-10-07 111056](https://github.com/user-attachments/assets/75c69c8d-6d08-46fa-98a5-a05bfdc0aa6d)
+
+Modal Gallery (Paris)
+![Screenshot 2025-10-07 111319](https://github.com/user-attachments/assets/008fad65-ce9d-439f-9018-796ea0e0a664)
+
+Destination Card (Paris)
+![Screenshot 2025-10-07 111600](https://github.com/user-attachments/assets/02f5c409-6966-4d9e-be3b-f71271eb9e8c)
 Limitations
 
 API Rate Limits: The demo Unsplash key is limited to 50 requests/hour, and the OpenWeatherMap key has usage restrictions. Use personal API keys for extended use. Security: API keys are hardcoded in the client-side JavaScript, which is not suitable for production. Consider a backend proxy for secure key management. Image Fallback: If Unsplash returns no images, a default image is used, which may not always be relevant. Accessibility: Some elements (e.g., gradient text) may need contrast improvements for accessibility.
