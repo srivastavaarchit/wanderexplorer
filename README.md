@@ -55,6 +55,7 @@ Use the “Clear All” button to remove all saved destinations (with a confirma
 View on Mobile:
 
 The layout adjusts automatically for smaller screens, with a stacked search bar and single-column grid.
+
 Screenshot Hero Section
 ![Screenshot 2025-10-07 110922](https://github.com/user-attachments/assets/ff093e28-7539-419a-ab46-f507f4b15a8a)
 
